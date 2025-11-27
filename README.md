@@ -1,7 +1,5 @@
 <img src="https://raw.githubusercontent.com/madhavik-2005/profile-assets/main/banner1.png" width="100%">
 
-<h1 align="center">👋 Hi, I'm Madhavi!</h1>
-<h3 align="center">Software Engineer | AI/ML | Data Analytics | Open Source Contributor</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=madhavik-2005&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
